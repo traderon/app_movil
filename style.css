@@ -1,0 +1,8 @@
+body { margin: 0; font-family: system-ui, sans-serif; color: #222; }
+header { background: #1e5eff; color: #fff; padding: 2rem 1rem; text-align: center; }
+main { padding: 1rem; max-width: 600px; margin: auto; }
+button { width: 100%; padding: 1rem; margin-bottom: .5rem; font-size: 1rem;
+         border: 0; border-radius: 8px; background: #eef2ff; text-align: left; }
+.contenido { display: none; padding: 0 1rem 1rem; }
+.contenido.abierto { display: block; }
+footer { text-align: center; padding: 1rem; background: #f2f2f2; }
